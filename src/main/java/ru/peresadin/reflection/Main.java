@@ -8,7 +8,7 @@ public class Main {
         C c = new C();
         c.x = 300;
         System.out.println("C x = " + c.x);
-        System.out.println("C get x= " + c.getX());
+        System.out.println("C get x= " + c.getX());//
         B b = new B();
         b.setY(10);
         b.setZ(30);
